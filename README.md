@@ -78,7 +78,7 @@ Mi objetivo es combinar profundidad técnica con impacto en equipo y producto, e
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandrajaimes&show_icons=true)
+![GitHub Stats](https://github-readme-stats-j7vd6u84g-sandrajaimes-projects.vercel.app/api?username=sandrajaimes&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandrajaimes&layout=compact)
 
