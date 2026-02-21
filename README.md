@@ -82,6 +82,12 @@ Mi objetivo es combinar profundidad técnica con impacto en equipo y producto, e
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandrajaimes&layout=compact)
 
+## 📊 GitHub Activity
+
+![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrajaimes&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandrajaimes&layout=compact&theme=github_dark&hide_border=true)
+
 ---
 
 ## 🌎 Connect
