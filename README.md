@@ -73,24 +73,3 @@ Actualmente desarrollando habilidades en:
 - Comunicación cross-team  
 
 Mi objetivo es combinar profundidad técnica con impacto en equipo y producto, evolucionando hacia un rol de Engineering Leader.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-j7vd6u84g-sandrajaimes-projects.vercel.app/api?username=sandrajaimes&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandrajaimes&layout=compact)
-
-## 📊 GitHub Activity
-
-![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrajaimes&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandrajaimes&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-## 🌎 Connect
-
-- LinkedIn: (add link)
-- Open to collaboration on backend & cloud projects
